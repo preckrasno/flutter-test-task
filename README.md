@@ -19,6 +19,7 @@ A new Flutter project made for solving test task.
 
  1. Clone the project to your machine
  2. Open project folder in Visual Studio Code
- 3. Press `Ctrl+Shift+P` > Type `Flutter: Select Device` and select your Android device
- 4. Press `F5` or refer to this [Guide](https://code.visualstudio.com/docs/editor/debugging)
+ 3. Open `lib/main.dart` file
+ 4. Press `Ctrl+Shift+P` > Type `Flutter: Select Device` and select your Android device
+ 5. Press `F5` or refer to this [Guide](https://code.visualstudio.com/docs/editor/debugging)
 
