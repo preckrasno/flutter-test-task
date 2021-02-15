@@ -21,7 +21,7 @@ class _RandomBackgroundColorWidget extends State<RandomBackgroundColorWidget> {
   int _colorIndex = 0xFF42A5F5;
 
   void _randomColorIndexGenerator() {
-    var _rng = new Random();
+    final _rng = new Random();
     setState(() => {_colorIndex = (_rng.nextInt(0xFFFFFF) + 0xFF000000)});
   }
 
